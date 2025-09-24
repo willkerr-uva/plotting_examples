@@ -19,7 +19,7 @@ plt.title("Random Gaussian")
 plt.xlabel("x")
 plt.ylabel("Frequency")
 plt.legend(fontsize=8)
-plt.savefig("canvas1.png")
+plt.savefig("canvas1_py.png")
 
 #canvas 2
 plt.figure()
@@ -90,4 +90,4 @@ plt.ylabel("Frequency")
 plt.legend(fontsize=5)
 
 plt.tight_layout()
-plt.savefig("canvas2.pdf")
+plt.savefig("canvas2_py.pdf")
